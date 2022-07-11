@@ -1,0 +1,2 @@
+default: --publish
+html_report: --format progress --format html --out HTML_REPORTS/Execution_Report.html
