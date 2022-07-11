@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite failures="0" errors="0" skipped="0" tests="1" time="19.916755" name="Just browsing on Amazon website">
+<testcase classname="Just browsing on Amazon website" name="Searching for Mobile Phones" time="19.916755">
+  <system-out>
+    <![CDATA[Amazon.in : mobile phone
+]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+</testsuite>
